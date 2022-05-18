@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/799.8085b580.chunk.js","mappings":"kKAAaA,EAAW,WACtB,OAAO,gBAAKC,UAAU,YAAf","sources":["components/views/Error404/Error404.jsx"],"sourcesContent":["export const Error404 = () => {\n  return <div className=\"container\"> Pagina no encontrada</div>;\n};\n"],"names":["Error404","className"],"sourceRoot":""}

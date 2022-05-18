@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgoscrum=self.webpackChunkgoscrum||[]).push([[799],{3313:function(n,r,c){c.r(r),c.d(r,{Error404:function(){return u}});var e=c(184),u=function(){return(0,e.jsx)("div",{className:"container",children:" Pagina no encontrada"})}}}]);
+//# sourceMappingURL=799.8085b580.chunk.js.map
